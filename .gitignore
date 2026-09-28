@@ -1,0 +1,28 @@
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Model weights & checkpoints (not tracked; see each README)
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.bin
+*.h5
+*.onnx
+*.cbm
+models/
+checkpoints/
+wandb/
+catboost_info/
+
+# Full datasets (download from the competition pages; see each README)
+**/data/raw/
