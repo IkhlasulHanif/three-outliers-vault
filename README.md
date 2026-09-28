@@ -1,6 +1,6 @@
 # Three Outliers
 
-Competition work from **Three Outliers**, a data science team from Universitas Indonesia. This covers national data science competitions from 2023 to 2024.
+Competition work from **Three Outliers**, We are a data science team from Universitas Indonesia. This covers national data science competitions from 2023 to 2024.
 
 <p align="center">
   <img src="satria-data-2024/assets/photos/team_photo_1.jpg" alt="Three Outliers receiving 2nd place at Satria Data 2024" width="700">
