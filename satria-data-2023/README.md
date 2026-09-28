@@ -76,4 +76,4 @@ Main dependencies:
 The keras-ocr notebook was run on Windows, and its file-sorting key splits paths on `\\`.
 
 ## Team
-Three Outliers: Eduardus Tjitrahardja, Ikhlasul Akmal Hanif, Rahmat Bryan Naufal
+[Three Outliers](../README.md#team): [Eduardus Tjitrahardja](https://www.linkedin.com/in/edutjie/), [Ikhlasul Akmal Hanif](https://www.linkedin.com/in/ikhlasul-akmal-h/), [Rahmat Bryan Naufal](https://www.linkedin.com/in/rahmat-bryan-naufal/)

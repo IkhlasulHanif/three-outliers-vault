@@ -177,4 +177,4 @@ It writes OOF and test predictions to `output/`. The final run used a Windows la
 **Preparation notebooks.** They were run on Kaggle or Colab. The Kaggle ones keep their `/kaggle/input/...` paths. The Colab ones read from `../data/<dataset>/` (`ristek_oprec_2022`, `dataquest`, `ristek-datathon-2022`).
 
 ## Team
-Three Outliers: Eduardus Tjitrahardja, Ikhlasul Akmal Hanif, Rahmat Bryan Naufal
+[Three Outliers](../README.md#team): [Eduardus Tjitrahardja](https://www.linkedin.com/in/edutjie/), [Ikhlasul Akmal Hanif](https://www.linkedin.com/in/ikhlasul-akmal-h/), [Rahmat Bryan Naufal](https://www.linkedin.com/in/rahmat-bryan-naufal/)

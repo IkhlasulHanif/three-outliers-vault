@@ -2,7 +2,17 @@
 
 Competition work from **Three Outliers**, a data science team from Universitas Indonesia. This covers national data science competitions from 2023 to 2024.
 
-**Team:** Eduardus Tjitrahardja · Ikhlasul Akmal Hanif · Rahmat Bryan Naufal
+<p align="center">
+  <img src="satria-data-2024/assets/photos/team_photo_1.jpg" alt="Three Outliers receiving 2nd place at Satria Data 2024" width="700">
+</p>
+
+## Team
+
+| Member | LinkedIn | GitHub |
+|---|---|---|
+| **Eduardus Tjitrahardja** | [edutjie](https://www.linkedin.com/in/edutjie/) | [@edutjie](https://github.com/edutjie) |
+| **Ikhlasul Akmal Hanif** | [ikhlasul-akmal-h](https://www.linkedin.com/in/ikhlasul-akmal-h/) | [@IkhlasulHanif](https://github.com/IkhlasulHanif) |
+| **Rahmat Bryan Naufal** | [rahmat-bryan-naufal](https://www.linkedin.com/in/rahmat-bryan-naufal/) | [@rahmat-bryan-naufal](https://github.com/rahmat-bryan-naufal) |
 
 ## Highlights
 

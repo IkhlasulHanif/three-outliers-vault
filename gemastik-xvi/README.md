@@ -142,4 +142,4 @@ The preparation notebooks need these extra files in `data/`:
 They also need the fastText `cc.id.300.bin` vectors from [fasttext.cc](https://fasttext.cc/docs/en/crawl-vectors.html) in `models/`. Their Python dependencies are `transformers`, `torch`, `nlp-id`, `Sastrawi`, `gensim`, `stanza`, `umap-learn`, `peft`, `trl` and `bitsandbytes`.
 
 ## Team
-Three Outliers: Eduardus Tjitrahardja, Ikhlasul Akmal Hanif, Rahmat Bryan Naufal
+[Three Outliers](../README.md#team): [Eduardus Tjitrahardja](https://www.linkedin.com/in/edutjie/), [Ikhlasul Akmal Hanif](https://www.linkedin.com/in/ikhlasul-akmal-h/), [Rahmat Bryan Naufal](https://www.linkedin.com/in/rahmat-bryan-naufal/)
